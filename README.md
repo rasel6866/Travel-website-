@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Overview  
+## 📖  Overview  
 The **Travel Explorer** website is a responsive web-based platform designed to showcase popular tourist destinations and provide a simple booking system for travelers.  
 It allows users to browse destinations, explore beautiful places, and plan trips seamlessly with an easy-to-use interface.  
 
