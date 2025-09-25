@@ -1,4 +1,4 @@
- <h1 align="center">🌍Travel Explorer(Discover Amazing Places)🌍</h1> 
+ <h1 align="center">🌍 Travel Explorer(Discover Amazing Places)🌍</h1> 
 
 <p align="center">
    <img src="https://img.shields.io/badge/Contributors-1-brightgreen" alt="Contributors">
